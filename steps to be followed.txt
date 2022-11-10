@@ -1,0 +1,31 @@
+Step-1 : Create a Project : ng new NEWSTC
+
+Step-2 : ng serve -o
+
+Step-3 : ng g c topheadline
+
+Api Key : ee5719d3b8144bcda1046b7f2a028c9d
+
+Step-4 : Create a service : ng g s services/tcnewsapi
+
+Step-5 : ng g c tech
+
+Step-6 : ng g c business
+
+kOLKATA,JORHAT ARE NOT ACCESSIBLE
+
+Vadodara to Ahmedabad(failed)
+
+Dehradun To Delhi DUB(IIS issue)
+
+
+Web Application is Live on 
+Dehradun
+Vadodara
+
+pip install --no-index --find-link=C:/inspira/py-packages -r require-live-win-4aug22.txt
+
+-
+pip install --no-index --find-link=C:\Jimmy\Inspira-stuff\py-packages -r require-prod.txt
+--	
+
